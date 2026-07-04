@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+joblib
+# transformers  # optional: enables real pretrained-model "advanced" tier if network access is available
